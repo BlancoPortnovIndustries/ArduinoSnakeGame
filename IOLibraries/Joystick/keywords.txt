@@ -1,0 +1,8 @@
+Joystick			KEYWORD1
+scanJoystick			KEYWORD2
+calibrateJoystick		KEYWORD2
+buttClicks			KEYWORD2
+getClicks			KEYWORD2
+resetClicks			KEYWORD2
+getPreviousDirection		KEYWORD2
+resetPreviousDirection		KEYWORD2
