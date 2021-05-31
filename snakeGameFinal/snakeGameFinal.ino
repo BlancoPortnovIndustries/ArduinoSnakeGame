@@ -153,7 +153,7 @@ int getRandomSeed(){
     case 0:
     return analogRead(A0);
     case 1:
-    return analoglRead(A1);
+    return analogRead(A1);
     case 2:
     return analogRead(A2);
     case 3:
